@@ -1,6 +1,7 @@
-package lib;
+package Lib;
 
-public class Mammal {
+
+public class Mammal extends Animal {
     public Mammal(String name) {
         super(name);
     }
@@ -10,4 +11,4 @@ public class Mammal {
         return "Mammal sound";
     }
 }
-}
+

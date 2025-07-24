@@ -1,4 +1,4 @@
-package lib;
+package Lib;
 
 public abstract class Animal {
     private final String name;
